@@ -1,0 +1,44 @@
+.btn1{
+    color: #536942;
+    background-color: #dab200;
+    height: 45px;
+    
+    border: none;
+    border-radius: 5px;
+}
+
+.btn2{
+
+    height: 15px;
+    border-radius: 50px;
+    width: 15px;
+    border: none;
+}
+
+.btn3{
+
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    transition: .5s;
+
+}
+.btn3:hover{
+
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid rgb(117, 168, 117);
+    color: rgb(93, 135, 93);
+    background-color: white;
+
+}
+.btn4{
+    color: black;
+    background-color: #ff0099;
+    height: 45px;
+    
+    border: none;
+    border-radius: 5px;
+}
